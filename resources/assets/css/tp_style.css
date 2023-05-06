@@ -1,0 +1,417 @@
+
+/**************************/
+/*          General
+***************************/
+/*(Main Color)*/
+a:hover, .SearchBtn > i, .Top:before, .TpMvPlay:before, .TPost.B .TPMvCn .TPlay:before, .SrtdBy li a:before, .Clra, .ShareList > li > a, .PlayMovie:hover, .VideoPlayer > span, .OptionBx p:before, .comment-reply-link:before, section > .Top > .Title > span, .widget_categories > ul li:hover > a:before, .Frm-Slct > label:before, .widget span.required, .comment-notes:before, .TPost .Description .CastList li:hover:before, .error-404:before, .widget_recent_comments li:before, .widget_recent_entries li:before, .widget_views li:before, .widget_rss li:before, .widget_meta li:before, .widget_pages li:before, .widget_archive li:before {
+    color: #de1212
+}
+
+.Tf-Wp.open .MenuBtn i, .owl-dots > div.active > span, #Tf-Wp.open .MenuBtn i, .TpTv, .TPost.C .Top, .TPost.C .Image, .Bgra, .VideoOptions.open + .BtnOptions, .lgtbx-on .VideoPlayer > span.BtnLight {
+    background-color: #de1212
+}
+
+.widget_nav_menu > div > ul > li[class*="current"], .widget_categories > ul > li:hover, .comment-list .children, blockquote {
+    border-color: #de1212
+}
+
+.menu-item-has-children > a:after, .SrtdBy:after {
+    border-top-color: #de1212
+}
+
+@media screen and (max-width: 62em) {
+    .Menu {
+        border-top-color: #de1212
+    }
+}
+
+@media screen and (min-width: 62em) {
+    ::-webkit-scrollbar-thumb {
+        background-color: #de1212
+    }
+
+    .menu-item-has-children:hover > .sub-menu {
+        border-top-color: #de1212
+    }
+
+    .menu-item-has-children:after {
+        border-bottom-color: #de1212
+    }
+}
+
+::selection {
+    background-color: #de1212;
+    color: #fff
+}
+
+::-moz-selection {
+    background-color: #de1212;
+    color: #fff
+}
+
+/*(Body Background)*/
+body {
+    background-color: #1a191f
+}
+
+/*(Text Color)*/
+body {
+    color: #818083
+}
+
+/*(Links Color)*/
+a, .ShareList.Count .numbr {
+    color: #fff
+}
+
+/*(Titles - Color)*/
+.Top > .Title, .Title.Top, .comment-reply-title, #email-notes, .Description h1, .Description h2, .Description h3, .Description h4, .Description h5, .Description h6, .Description legend {
+    color: #fff
+}
+
+/**************************/
+/*          Header
+***************************/
+/*Background*/
+.Header:after {
+    background-color: #000
+}
+
+.BdGradient .Header:after {
+    background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0) 100%)
+}
+
+/*Menu*/
+/*(Menu Links Color)*/
+.Menu a, .SearchBtn {
+    color: #fff
+}
+
+.MenuBtn i {
+    background-color: #fff
+}
+
+/*(Menu Links Color Hover)*/
+.Menu li:hover a {
+    color: #fff
+}
+
+@media screen and (min-width: 62em) {
+    .Menu [class*="current"] > a, .Header .Menu > ul > li:hover > a {
+        color: #fff
+    }
+}
+
+/*(Menu Icons Color)*/
+.Menu li:before, .menu li:before {
+    color: #de1212
+}
+
+/*(Submenus Brackground)*/
+.Frm-Slct > label, .TPost.B .TPMvCn, .SrtdBy.open .List, .SearchMovies .sol-selection, .trsrcbx, .SearchMovies .sol-no-results, .OptionBx {
+    background-color: #1a191f
+}
+
+@media screen and (max-width: 62em) {
+    .Menu {
+        background-color: #1a191f
+    }
+}
+
+@media screen and (min-width: 62em) {
+    .sub-menu {
+        background-color: #1a191f
+    }
+}
+
+/*(Submenus Text Color)*/
+.Frm-Slct > label, .TPost.B .TPMvCn, .OptionBx {
+    color: #818083
+}
+
+/*(Submenus Links Color)*/
+.TPost.B .TPMvCn a, .OptionBx div, .sub-menu a, .Menu li:hover .sub-menu li > a {
+    color: #fff !important
+}
+
+@media screen and (max-width: 62em) {
+    .Menu a {
+        color: #fff
+    }
+}
+
+/*(Submenus Links Color Hover)*/
+.TPost.B .TPMvCn a:hover, .OptionBx a:hover, .sub-menu li:hover a, .Menu li:hover .sub-menu li:hover > a {
+    color: #fff !important
+}
+
+@media screen and (max-width: 62em) {
+    .Menu li:hover a {
+        color: #fff
+    }
+}
+
+/**************************/
+/*          Banner Top
+***************************/
+/*(Banner Top Background)*/
+.TPost.A .Image:after, .TPost .Description .CastList:before {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, #1a191f 100%)
+}
+
+/*(Banner Top Links Color)*/
+.MovieListSldCn .TPost.A .TPMvCn div a, .MovieListSldCn .TPost.A .TPMvCn .Title {
+    color: #e0e0e0
+}
+
+/*(Banner Top Links Color Hover)*/
+.MovieListSldCn .TPost.A .TPMvCn div a:hover, .MovieListSldCn .TPost.A .TPMvCn .Title:hover {
+    color: #e0e0e0
+}
+
+/*(Banner Top Text Color)*/
+.MovieListSldCn .TPost.A {
+    color: #e0e0e0
+}
+
+/**************************/
+/*          Forms
+***************************/
+/*(Buttons Background)*/
+.Button, a.Button, a.Button:hover, button, input[type="button"], input[type="reset"], input[type="submit"], .BuyNow > a, .sol-selected-display-item, .trsrclst > li, .ShareList > li > a:hover, .TPost.B .Image .Qlty {
+    background-color: #de1212
+}
+
+.ShareList > li > a {
+    border-color: #de1212
+}
+
+/*(Buttons Background Hover)*/
+.Button:hover, .Button:hover, button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .BuyNow > a:hover {
+    background-color: #de1212
+}
+
+/*(Buttons Text Color)*/
+.Button, a.Button, button, input[type="button"], input[type="reset"], input[type="submit"], .BuyNow > a, .sol-selected-display-item, .trsrclst > li, .ShareList > li > a:hover, .TPost.B .Image .Qlty {
+    color: #fff
+}
+
+/*(Buttons Text Color Hover)*/
+.Button:hover, .Button:hover, button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .BuyNow > a:hover {
+    color: #fff
+}
+
+/*(Form controls Background)*/
+input, textarea, select, .Form-Select label, .OptionBx p {
+    background-color: #2a292f
+}
+
+/*(Form controls Text Color)*/
+input, textarea, select, .Form-Select label, .OptionBx p {
+    color: #fff
+}
+
+/**************************/
+/*          Widgets
+***************************/
+/*(Widget - Backgorund)*/
+aside .Wdgt {
+    background-color: #212026
+}
+
+/*(Widget Title - Backgorund)*/
+aside .Wdgt > .Title {
+    background-color: #19181d
+}
+
+/*(Widget Title - Color)*/
+aside .Wdgt > .Title {
+    color: #fff
+}
+
+/*(Widget Text Color)*/
+aside .Wdgt {
+    color: #818083
+}
+
+/*(Widget Links Color)*/
+aside .Wdgt a {
+    color: #fff
+}
+
+/*(Widget Links Color Hover)*/
+aside .Wdgt a:hover {
+    color: #de1212
+}
+
+/**************************/
+/*          Tables
+***************************/
+/*(Table Title Background)*/
+thead tr {
+    background-color: #de1212
+}
+
+/*(Table Title Text)*/
+thead tr {
+    color: #fff
+}
+
+/*(Table Cell Background)*/
+td {
+    background-color: #26252a
+}
+
+.SeasonBx {
+    border-bottom-color: #26252a
+}
+
+/*(Table Cell Background Hover )*/
+tr:hover > td, tr.Viewed td {
+    background-color: #313036
+}
+
+/*(Table Cell Text)*/
+td {
+    color: #818083
+}
+
+/*(Table Cell Links)*/
+td a, .TPTblCnMvs td:first-child, .TPTblCnMvs td:nth-child(2), .TPTblCnMvs td:nth-child(3) {
+    color: #fff
+}
+
+/*(Table Cell Links Hover)*/
+td a:hover {
+    color: #de1212
+}
+
+/**************************/
+/*          Pagination
+***************************/
+/*Pagination Links Background*/
+.menu-azlist ul.sub-menu a, .AZList > li > a, .wp-pagenavi a, .wp-pagenavi span, .nav-links a, .nav-links span, .tagcloud a {
+    background-color: #313036
+}
+
+@media screen and (max-width: 62em) {
+    .Menu > ul > li {
+        border-bottom-color: #313036
+    }
+
+    .Menu .sub-menu a {
+        background-color: #313036
+    }
+}
+
+/*Pagination Links Background Hover*/
+.menu-azlist ul.sub-menu a:hover, .menu-azlist [class*="current"] > a, .AZList a:hover, .AZList .Current a, .wp-pagenavi a:hover, .wp-pagenavi span.current, .nav-links a:hover, .nav-links [class*="current"], .tagcloud a:hover {
+    background-color: #de1212
+}
+
+@media screen and (max-width: 62em) {
+    .Menu .sub-menu a:hover {
+        background-color: #de1212
+    }
+}
+
+/*Pagination Links Color*/
+.menu-azlist ul.sub-menu a, .AZList > li > a, .wp-pagenavi a, .wp-pagenavi span, .tagcloud a {
+    color: #fff !important
+}
+
+@media screen and (max-width: 62em) {
+    .Menu .sub-menu a {
+        color: #fff !important
+    }
+}
+
+/*Pagination Links Color Hover*/
+.Menu li.menu-azlist:hover ul.sub-menu a:hover, .menu-azlist [class*="current"] > a, .AZList a:hover, .AZList .Current a, .wp-pagenavi a:hover, .wp-pagenavi span.current, .nav-links a:hover, .nav-links [class*="current"], .tagcloud a:hover {
+    color: #fff !important
+}
+
+@media screen and (max-width: 62em) {
+    .Menu li:hover .sub-menu li:hover a, .Menu .sub-menu li:hover:before {
+        color: #fff !important
+    }
+}
+
+/**************************/
+/*          Footer
+***************************/
+/*Top*/
+/*(Footer Top - Background)*/
+.Footer .Top {
+    background-color: #151419
+}
+
+/*(Footer Top - Text Color)*/
+.Footer .Top {
+    color: #818083
+}
+
+/*(Footer Top - Links Color)*/
+.Footer .Top a {
+    color: #fff
+}
+
+/*(Footer Top - Links Color Hover)*/
+.Footer .Top a:hover {
+    color: #de1212
+}
+
+/*Bot*/
+/*(Footer Bot - Background)*/
+.Footer .Bot {
+    background-color: #1a191f
+}
+
+/*(Footer Bot - Text Color)*/
+.Footer .Bot {
+    color: #818083
+}
+
+/*(Footer Bot - Links Color)*/
+.Footer .Bot a {
+    color: #fff
+}
+
+/*(Footer Bot - Links Color Hover)*/
+.Footer .Bot a:hover {
+    color: #de1212
+}
+
+/****************************  NO EDIT  ****************************/
+.Search input[type="text"] {
+    background-color: rgba(255, 255, 255, .2);
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .2);
+    color: #fff
+}
+
+.Search input[type="text"]:focus {
+    background-color: rgba(255, 255, 255, .3);
+    box-shadow: 0 0 5px rgba(0, 0, 0, .5), inset 0 0 0 1px rgba(255, 255, 255, .2)
+}
+
+.Button, a.Button, button, input[type="button"], input[type="reset"], input[type="submit"], .BuyNow > a, .wp-pagenavi .current, thead tr, .nav-links [class*="current"] {
+    box-shadow: inset 0 -10px 20px rgba(0, 0, 0, .3)
+}
+
+.Button:hover, .Button:hover, button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .BuyNow > a:hover {
+    box-shadow: none
+}
+
+.TPost.B .TPMvCn, aside .Wdgt, .SrtdBy.open .List, .sol-active.sol-selection-top .sol-selection-container, .trsrcbx, .sub-menu, .OptionBx, .wp-pagenavi a, .wp-pagenavi span, .nav-links a, .nav-links span, .tagcloud a {
+    box-shadow: inset 0 0 70px rgba(0, 0, 0, .3), 0 0 20px rgba(0, 0, 0, .5)
+}
+
+.widget_categories > ul li:hover, .sol-option:hover {
+    box-shadow: inset 0 0 70px rgba(0, 0, 0, .2)
+}
+
+@media screen and (max-width: 62em) {
+    .sub-menu {
+        box-shadow: none
+    }
+}

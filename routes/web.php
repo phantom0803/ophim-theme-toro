@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Ophim\ThemeHoly\Controllers\ThemeToroController;
+use Ophim\ThemeToro\Controllers\ThemeToroController;
 
 // --------------------------
 // Custom Backpack Routes
